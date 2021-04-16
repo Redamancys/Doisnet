@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "esNext",
+    "resolveJsonModule": true,
+    "paths": {
+      "@/*": [
+        "./app/*"
+      ],
+      "@app-plugins/*": [
+        "./app/app-plugins/*"
+      ]
+    },
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "app"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

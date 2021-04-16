@@ -1,0 +1,46 @@
+node_modules
+dist
+*.log
+out
+package-lock.json
+pluginsDist
+
+# IDEs and editors
+/.idea
+.vscode
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+package-lock.json
+
+# e2e
+/e2e/*.js
+!/e2e/protractor.conf.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
+.vscode
+
+# build start
+app
+ElectronPkg.md
+rollup-config
+gitignore.publish.js
+forge.config.js
+# build end
