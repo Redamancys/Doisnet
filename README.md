@@ -5,4 +5,6 @@ Solve any network problem
 
 ### 杀毒软件会对ps1脚本报毒，此文件通过powershell命令进行windows代理设置，介意者请勿下载
 
+### 此版本为全局代理模式，访问国内网站速度会受影响，下一版本增加智能代理
+
 [Windows版下载](https://github.com/dodois/Doisnet/releases/download/v0.0.1/doisnet-0.0.1.Setup.exe)
